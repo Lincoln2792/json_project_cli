@@ -59,3 +59,7 @@ Exemplo JSON
     { "path": "config/app.yml", "content": "runtime:\n  environment: dev\n" }
   ]
 }
+```
+
+## Uninstall
+```pip uninstall json-project-cli```
